@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![gitanimals](https://render.gitanimals.org/farms/{username})](https://github.com/devxb/gitanimals)
+[![gitanimals](https://render.gitanimals.org/farms/CHOIJUNHYUK01)](https://github.com/devxb/gitanimals)
 
 <!--
 **CHOIJUNHYUK01/CHOIJUNHYUK01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
